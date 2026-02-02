@@ -1,15 +1,15 @@
 # Discord Client Encyclopedia
 
 <p align="center">
-  <a href="https://discord.gg/3kv5yzTYQE">
+  <a href="https://discord.gg/o9">
     <img alt="Discord" src="https://img.shields.io/discord/1044501553731600414?color=%7767d2&label=Support%20Server&logo=discord&logoColor=%cd67d2&style=for-the-badge">
   </a>
 </p>
 <p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Discord-Client-Encyclopedia-Management/Discord3rdparties?color=ec9c36&logo=github&style=for-the-badge">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/Discord-Client-Encyclopedia-Management/Discord3rdparties?color=ec365a&logo=github&style=for-the-badge">
-  <a href="https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/Discord-Client-Encyclopedia-Management/Discord3rdparties?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/o9-9/discord-third-party?color=ec9c36&logo=github&style=for-the-badge">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/o9-9/discord-third-party?color=ec365a&logo=github&style=for-the-badge">
+  <a href="https://github.com/o9-9/discord-third-party/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/o9-9/discord-third-party?style=for-the-badge">
   </a>
 </p>
 
